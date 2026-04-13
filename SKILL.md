@@ -1,7 +1,7 @@
 ---
 name: self-improving-agent
 description: "Capture learnings, errors, and feature requests for continuous improvement. Use when: (1) A command or operation fails, (2) User corrects you, (3) User requests a missing capability, (4) An external API/tool fails, (5) Better approach discovered for recurring task. Review before major tasks."
-metadata: {"nanobot":{"emoji":"📚","always":true}}
+metadata: {"nanobot":{"emoji":"📚"}}
 ---
 
 # Self-Improvement
